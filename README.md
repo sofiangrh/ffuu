@@ -71,3 +71,9 @@ Then save the document.
 3. Right-click on your panel and select properties. Go to the Background tab and select Solid color. Move the Style slider all the way to the left.
 
 4. And you\'re done! Enjoy your fake transparent panel. :p
+
+# Screenshot
+<img src="http://gnome-look.org/CONTENT/content-pre1/127731-1.jpg" height="480" width="640">
+
+# Credits to
+[lassekongo83](http://gnome-look.org/usermanager/search.php?username=lassekongo83)
